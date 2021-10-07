@@ -26,6 +26,15 @@ function incrementarPorUno(array) {
   // Aumenta cada entero por 1
   // y devuelve el array
   // Tu código:
+  let validate = true;
+  for (let i = 0; i < array.length; i++) {
+    if (typeof array[i] != "number") {
+      validate = false;
+    } else {
+      array[i]++;
+    }
+  }
+  return validate ? array : null;
 }
 
 
