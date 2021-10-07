@@ -1,0 +1,9 @@
+Variables: Una variable se puede definir como un sitio donde puedes almacenar cierta información en forma de numero, cadena de texto, verdadero/falso, decimales (float), entre otros, para luego poder usar este dato en otras partes del código.
+
+String: Se refiere a un tipo de dato donde puedes almacenar cadenas de texto.
+
+Funciones: Se puede decir que en una función puedes almacenar un bloque de código con varias instrucciones la cual puedes usar en varias partes evitando así repetir y sintetizar.
+
+Las declaraciones if le ayudan a tomar una desición al código según el flujo de información que le entre.
+
+Un valor booleano es un tipo de datos que maneja solo dos estados True o False (Verdadero o Falso).
