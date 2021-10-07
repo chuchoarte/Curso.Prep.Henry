@@ -1,0 +1,3 @@
+Los arrays nos permiten meter dentro de una variable varios elementos, quedando este como una
+especie de lista de datos. Se pueden consultar mediante métodos predefinidos los cuales pueden
+ser su longitud, un índice en específico recorrerlos datos con un ciclo o mutarlo.
