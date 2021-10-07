@@ -1,0 +1,13 @@
+El ciclo for se usa para repetir una o varias intrucciones un determinado número de veces.
+
+El operador && es igual a AND o "y" en español. Por ejemplo if (4 > 5 && 3 > 2). Con esto
+estaríamos indicando al script que si ambas sentencias son verdaderas entonces retorne
+verdadero de lo contrario retorne falso.
+
+El operador || es igual a OR o "o" en español. Por ejemplo if (4 > 5 || 3 > 2). Con esto
+estaríamos indicando al script que si alguna de las dos sentencias son verdaderas entonces
+retorne verdadero si ambas son falsas retorne falso.
+
+El operador ! ayuda a indicar que lo que viene después de el es diferente a. Por ejemplo
+si quiero hacer una comparación donde quiero devolver true si ambos valores son diferentes
+lo haría del siguiente modo. if (4 != 5).
